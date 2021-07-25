@@ -1,0 +1,6 @@
+Pasos en GIT-cmd.exe:
+buscar cmd en la lupa de windows
+Seleccionar git CMD
+cd +poner la ruta de mi carpeta
+git status
+git init
